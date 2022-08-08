@@ -2,6 +2,9 @@
 
 「[TypeScriptとReact/Next.jsでつくる実践Webアプリケーション](https://gihyo.jp/book/2022/978-4-297-12916-3)」のサンプルアプリ
 
+下記ホームページ参照
+https://github.com/gihyo-book/ts-nextbook-app
+
 ![サンプルアプリ](https://user-images.githubusercontent.com/2387508/178550902-a7c1e47b-a322-413c-b9ad-2ffff79e041d.png)
 
 ## 初版からのアップデート
